@@ -4,8 +4,8 @@ import javax.xml.bind.annotation.XmlRootElement;
 import javax.xml.bind.annotation.XmlType;
 
 @XmlRootElement(name = "stock")
-@XmlType(propOrder = { "barcode", "name", "price", "quantity",
-		"description", "department", "min_level" })
+@XmlType(propOrder = { "barcode", "name", "price", "quantity", "description",
+		"department", "min_level" })
 public class Stock {
 	private String name;
 	private String barcode;

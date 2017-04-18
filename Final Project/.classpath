@@ -18,5 +18,7 @@
 	<classpathentry kind="lib" path="lib/javax.servlet.jsp.jstl-api-1.2.1.jar"/>
 	<classpathentry kind="lib" path="lib/jersey-bundle-1.15.jar"/>
 	<classpathentry kind="lib" path="lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="lib/activation.jar"/>
+	<classpathentry kind="lib" path="lib/java-mail-1.4.4.jar"/>
 	<classpathentry kind="output" path="build/classes"/>
 </classpath>
